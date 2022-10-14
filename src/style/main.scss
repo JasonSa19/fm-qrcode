@@ -1,5 +1,10 @@
 // Globals
 @import "global/fonts.scss";
+@import "global/typo.scss";
+@import "global/vars.scss";
 
 // Component
 @import "components/qrcode.scss";
+
+// Layout
+@import "layout/base.scss";

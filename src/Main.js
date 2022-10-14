@@ -1,9 +1,9 @@
-import qrcode from "./components/qrcode";
+import Qrcode from "./components/qrcode";
 
 function Main() {
   return (
     <div className="Main">
-      <qrcode />
+      <Qrcode />
     </div>
   );
 }
