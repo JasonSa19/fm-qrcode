@@ -1,9 +1,5 @@
 function Main() {
-  return (
-    <div className="Main">
-      <header className="Main-header"></header>
-    </div>
-  );
+  return <div className="Main"></div>;
 }
 
 export default Main;
