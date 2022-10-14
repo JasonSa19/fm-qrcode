@@ -2,7 +2,7 @@ import Qrcode from "./components/qrcode";
 
 function Main() {
   return (
-    <div className="Main">
+    <div className="main">
       <Qrcode />
     </div>
   );
